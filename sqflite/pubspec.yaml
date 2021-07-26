@@ -13,8 +13,8 @@ flutter:
       android:
         package: com.tekartik.sqflite
         pluginClass: SqflitePlugin
-      ios:
-        pluginClass: SqflitePlugin
+      # ios:
+      #   pluginClass: SqflitePlugin
       macos:
         pluginClass: SqflitePlugin
 
